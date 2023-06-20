@@ -2,7 +2,7 @@
 Development board(s) for the Realtek [RTL872xD](https://www.realtek.com/en/products/communications-network-ics/item/rtl8721dm) dual band WLAN and BLE MCU.
 Please view the [product page](https://www.realmcu.com/en/Home/Product/a6248c82-7c9a-4f79-bebf-0df240726c4d) for detailed information and documentation.
 
-For KiCad *Version: 7.0.1, release build*
+![](./exports/renderings/rtl872xd-dev-board-front.png)
 
 Browse the files on [KiCanvas](https://kicanvas.org/?github=https://github.com/simplexion/rtl872xd-dev-board/tree/main/source/rtl872xd-dev-board) - by [Stargirl Flowers](https://github.com/theacodes)
 
