@@ -1,4 +1,4 @@
-PROJECTS = template
+PROJECTS = rtl872xd-dev-board
 
 # Turn on increased build verbosity by defining BUILD_VERBOSE in your main
 # Makefile or in your environment. You can also use V=1 on the make command

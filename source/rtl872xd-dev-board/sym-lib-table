@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Realtek")(type "KiCad")(uri "${KIPRJMOD}/../../library/MCU_Realtek.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Diplexer")(type "KiCad")(uri "${KIPRJMOD}/../../library/RF_Diplexer.kicad_sym")(options "")(descr ""))
+)

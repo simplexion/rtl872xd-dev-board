@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Package_DFN_QFN_project")(type "KiCad")(uri "${KIPRJMOD}/../../library/Package_DFN_QFN.pretty")(options "")(descr ""))
+  (lib (name "RF_Antenna_project")(type "KiCad")(uri "${KIPRJMOD}/../../library/RF_Antenna.pretty")(options "")(descr ""))
+  (lib (name "RF_Diplexer")(type "KiCad")(uri "${KIPRJMOD}/../../library/RF_Diplexer.pretty")(options "")(descr ""))
+  (lib (name "Package_USON")(type "KiCad")(uri "${KIPRJMOD}/../../library/Package_USON.pretty")(options "")(descr ""))
+  (lib (name "Connector_M.2")(type "KiCad")(uri "${KIPRJMOD}/../../library/Connector_M.2.pretty")(options "")(descr ""))
+)
