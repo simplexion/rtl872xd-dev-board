@@ -1815,7 +1815,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 68.58 139.7 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 0c8229ad-28e9-4eaa-91a8-af9380fdd6c9)
     (property "Reference" "C12" (at 71.501 138.5316 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2465,7 +2465,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 58.42 139.7 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 53e2fae4-a018-40c3-8b93-b5cd1a831d15)
     (property "Reference" "C11" (at 55.499 138.5316 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2497,7 +2497,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 162.56 114.3 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 57f703bd-c08c-4872-89d9-4d4536cb25dd)
     (property "Reference" "C10" (at 166.37 114.935 0)
       (effects (font (size 1.27 1.27)) (justify right))
