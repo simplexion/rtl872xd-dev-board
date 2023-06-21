@@ -1,5 +1,6 @@
 "Designator","Footprint","Quantity","Value","LCSC Part #"
 "J2","Connector_M.2:M.2-B-KEY-22x","1","Bus_M.2_Socket_B",""
+"J3,J4","Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical","2","Conn_ARM_SWD_TagConnect_TC2030-NL",""
 "R3,R4,R1,R2","Resistor_SMD:R_0402_1005Metric","4","10k","C25744"
 "R5","Resistor_SMD:R_0402_1005Metric","1","12k","C25752"
 "U1","Package_DFN_QFN_project:QFN-88_EP_10x10_Pitch0.4mm","1","RTL8722DM",""
