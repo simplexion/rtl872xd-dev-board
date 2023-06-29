@@ -1406,7 +1406,7 @@
   )
 
   (symbol (lib_id "MCU_Realtek:RTL8722DM") (at 27.94 40.64 0) (unit 4)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0ee85d7-109d-4886-b7c8-8756983386f2)
     (property "Reference" "U1" (at 27.94 26.67 0)
       (effects (font (size 1.27 1.27)))
